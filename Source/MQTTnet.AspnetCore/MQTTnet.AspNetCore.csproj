@@ -8,6 +8,7 @@
     <PackageId />
     <LangVersion>7.2</LangVersion>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <IsPackable>false</IsPackable>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
